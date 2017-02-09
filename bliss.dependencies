@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "BlissRoms-Devices/android_device_asus_mofd-common",
+    "target_path": "device/asus/mofd-common"
+    "revision": "n7.1"
+  }
+]
